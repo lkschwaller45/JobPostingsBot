@@ -11,7 +11,7 @@ class Scraping:
 
 
 
-        results_per_city = 10
+        results_per_city = 100
         cities = ["New+York", "Chicago", "San+Francisco", "Austin", "Seattle", "Los+Angeles", "Philadelphia", "Atlanta",
                   "Dallas", "Pittsburgh", "Portland", "Phoenix", "Denver", "Houston", "Miami", "Washington+DC",
                   "Boulder"]
